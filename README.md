@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lara-kroft
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on game developement
+- 💞️ I’m looking to collaborate on game development
 - 📫 How to reach me instagram @laraveleal
 
 <!---
