@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on game development
-- 📫 How to reach me instagram @laraveleal
+- 📫 How to reach me: instagram @laraveleal
 
 <!---
 lara-kroft/lara-kroft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
